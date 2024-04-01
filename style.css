@@ -22,7 +22,7 @@ img {
 .clock {
   width: 350px;
   height: 350px;
-  background-color: lightgray;
+  background-color: rgb(202, 198, 198);
   border-radius: 100%;
   border: 5px solid darkgrey;
   box-shadow: 1px 1px 4px rgba(0,0,0,.7);
@@ -101,7 +101,4 @@ img {
 .arrows .second {
   background-color: goldenrod;
   transform: rotate(250deg);
- 
 }
-
-
